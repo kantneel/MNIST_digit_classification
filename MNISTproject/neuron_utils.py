@@ -38,3 +38,4 @@ def sanity_check_gradient():
 			return math.log(1.0 + math.exp(-2*z))
 		else:
 			return math.log(1.0 + math.exp(2*z))
+# changed spacing.
